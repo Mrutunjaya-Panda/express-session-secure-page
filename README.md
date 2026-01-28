@@ -149,5 +149,3 @@ GitHub: [https://github.com/Mrutunjaya-Panda](https://github.com/Mrutunjaya-Pand
 
 ## ⭐ If you like this project
 Give it a ⭐ and use it for learning authentication & session handling in Node.js!
-
-Give it a ⭐ and use it for learning authentication & session handling in Node.js!
